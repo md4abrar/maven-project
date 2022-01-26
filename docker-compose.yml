@@ -1,0 +1,7 @@
+version: '3.1'
+services:
+  springboot:
+    image: mdabrar4devops/maven-project:VERSION
+    restart: always
+    ports:
+    - 9090:8080
