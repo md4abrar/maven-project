@@ -23,7 +23,7 @@ public class EmployeeService {
 
 		JSONObject js = new JSONObject();
 		js.put("Name", "Iqra Technologies");
-		js.put("Calling Name", "Abrar");
+		js.put("Calling Name", "Shabu");
 		js.put("DOB", "04-Nov-2020");
 		js.put("Hobbies", "Reading Technical Blogs,Teaching");
 		js.put("Places he like", "Mars");
